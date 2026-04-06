@@ -9,7 +9,7 @@ A modern Android application that fetches and displays "dad jokes" from a REST A
 ## Features
 - **Real-time API Integration:** Fetches random jokes from the Official Joke API.
 - **Coroutines & Thread Management:** Uses Kotlin Coroutines for non-blocking network calls.
-- **Modern UI:** A clean, dark-themed interface built with ConstraintLayout and Material Design.
+- **Modern UI:** A clean interface built with ConstraintLayout and Material Design.
 - **Lifecycle Awareness:** Implements `lifecycleScope` to prevent memory leaks and handle activity destruction gracefully.
 - **Anti-Spam Logic:** Button debouncing to prevent multiple simultaneous API requests.
 
