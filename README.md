@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="icon.webp" width="100" alt="App Icon>
+</p>
 # The Cringe Button 🎙️
 
 A modern Android application that fetches and displays "dad jokes" from a REST API. This project was built to explore Kotlin development, Android Jetpack components, and modern asynchronous programming.
